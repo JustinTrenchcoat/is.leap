@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
   <!-- badges: start -->
   [![R-CMD-check](https://github.com/JustinTrenchcoat/is.leap/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JustinTrenchcoat/is.leap/actions/workflows/R-CMD-check.yaml)
+    [![Codecov test coverage](https://codecov.io/gh/JustinTrenchcoat/is.leap/graph/badge.svg)](https://app.codecov.io/gh/JustinTrenchcoat/is.leap)
   <!-- badges: end -->
 
 The goal of is.leap is to ...
