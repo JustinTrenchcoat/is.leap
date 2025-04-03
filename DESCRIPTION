@@ -14,5 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/JustinTrenchcoat/is.leap
+URL: https://github.com/JustinTrenchcoat/is.leap, https://justintrenchcoat.github.io/is.leap/
 BugReports: https://github.com/JustinTrenchcoat/is.leap/issues
